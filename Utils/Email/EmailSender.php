@@ -35,9 +35,9 @@ class EmailSender
 
         //ok, mail allowed - build it
         $email = new Email();
-
-        $email->addToAddr( OcConfig::getTechAdminsEmailAddr());
-        $email->setReplyToAddr( OcConfig::getTechAdminsEmailAddr());
+        $ocConfig = OcConfig::instance();
+        $email->addToAddr( $ocConfig->getTechAdminsEmailAddr());
+        $email->setReplyToAddr( $ocConfig->getTechAdminsEmailAddr());
         $email->setFromAddr( OcConfig::getNoreplyEmailAddress());
 
         $email->setSubject('[Oc Admin Email] Error in domain: '.$spamDomain); //TODO

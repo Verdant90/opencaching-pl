@@ -106,6 +106,7 @@ final class OcConfig
         $this->shortSiteName = $short_sitename;
         $this->needAproveLimit = $NEED_APPROVE_LIMIT;
         $this->needFindLimit = $NEED_FIND_LIMIT;
+        $this->techAdminsEmailAddr = $mail_rt;
 
         if( isset($config['mapsConfig']) && is_array( $config['mapsConfig'] ) ){
             $this->mapsConfig = $config['mapsConfig'];
@@ -276,12 +277,8 @@ final class OcConfig
         return $this->dbName;
     }
 
-    public static function getTechAdminsEmailAddr(){
-        //it will be implemented in a future
-        //currently this is only a stub...
-        global $mail_rt;
-
-        return $mail_rt;
+    public function getTechAdminsEmailAddr(){
+        return $this->techAdminsEmailAddr;
     }
 
     public static function getHeaderLogo()
