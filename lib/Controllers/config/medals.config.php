@@ -850,6 +850,213 @@ return array(
         ),
     ), /* end of medal REGION_WARMINSKOMAZURSKIE*/
 
+    MedalsContainer::REGION_SLASKIE => array(
+        'name' => _('regionSlaskie'),
+        'description' => _('Medal for geocaching in slaskie'),
+        'type' => MedalsController::MEDAL_TYPE_REGION,
+        'dateIntroduced' => '2006-04-09 10:30:00',
+        'conditions' => array(
+            'cacheType' => array(
+                GeoCache::TYPE_TRADITIONAL,
+                GeoCache::TYPE_MULTICACHE,
+                GeoCache::TYPE_QUIZ,
+                GeoCache::TYPE_OTHERTYPE,
+            ),
+            'cacheLocation' => array(
+                'code3' => 'PL22',
+            ),
+            'minimumAltitude' => false,
+            'cacheCountToAward' => array(
+                1 => array(
+                    'levelName' => _('slaskie1'),
+                    'cacheCount' => array(
+                        'found' => 1,
+                        'placed' => 0,
+                    ),
+                ),
+                2 => array(
+                    'levelName' => _('slaskie2'),
+                    'cacheCount' => array(
+                        'found' => 15,
+                        'placed' => 0,
+                    ),
+                ),
+                3 => array(
+                    'levelName' => _('slaskie3'),
+                    'cacheCount' => array(
+                        'found' => 33,
+                        'placed' => 0,
+                    ),
+                ),
+                4 => array(
+                    'levelName' => _('slaskie4'),
+                    'cacheCount' => array(
+                        'found' => 75,
+                        'placed' => 1,
+                    ),
+                ),
+                5 => array(
+                    'levelName' => _('slaskie5'),
+                    'cacheCount' => array(
+                        'found' => 155,
+                        'placed' => 2,
+                    ),
+                ),
+                6 => array(
+                    'levelName' => _('slaskie6'),
+                    'cacheCount' => array(
+                        'found' => 333,
+                        'placed' => 5,
+                    ),
+                ),
+                7 => array(
+                    'levelName' => _('slaskie7'),
+                    'cacheCount' => array(
+                        'found' => 555,
+                        'placed' => 10,
+                    ),
+                ),
+            ),
+        ),
+    ), /* end of medal REGION_SLASKIE*/
+    MedalsContainer::REGION_ZACHODNIOPOMORSKIE => array(
+        'name' => _('regionSwietokrzyskie'),
+        'description' => _('Medal for geocaching in zachodniopomorskie'),
+        'type' => MedalsController::MEDAL_TYPE_REGION,
+        'dateIntroduced' => '2006-04-09 10:30:00',
+        'conditions' => array(
+            'cacheType' => array(
+                GeoCache::TYPE_TRADITIONAL,
+                GeoCache::TYPE_MULTICACHE,
+                GeoCache::TYPE_QUIZ,
+                GeoCache::TYPE_OTHERTYPE,
+            ),
+            'cacheLocation' => array(
+                'code3' => 'PL42',
+            ),
+            'minimumAltitude' => false,
+            'cacheCountToAward' => array(
+                1 => array(
+                    'levelName' => _('zachodniopomorskie1'),
+                    'cacheCount' => array(
+                        'found' => 1,
+                        'placed' => 0,
+                    ),
+                ),
+                2 => array(
+                    'levelName' => _('zachodniopomorskie2'),
+                    'cacheCount' => array(
+                        'found' => 15,
+                        'placed' => 0,
+                    ),
+                ),
+                3 => array(
+                    'levelName' => _('zachodniopomorskie3'),
+                    'cacheCount' => array(
+                        'found' => 33,
+                        'placed' => 0,
+                    ),
+                ),
+                4 => array(
+                    'levelName' => _('zachodniopomorskie4'),
+                    'cacheCount' => array(
+                        'found' => 75,
+                        'placed' => 1,
+                    ),
+                ),
+                5 => array(
+                    'levelName' => _('zachodniopomorskie5'),
+                    'cacheCount' => array(
+                        'found' => 155,
+                        'placed' => 2,
+                    ),
+                ),
+                6 => array(
+                    'levelName' => _('zachodniopomorskie6'),
+                    'cacheCount' => array(
+                        'found' => 333,
+                        'placed' => 5,
+                    ),
+                ),
+                7 => array(
+                    'levelName' => _('zachodniopomorskie7'),
+                    'cacheCount' => array(
+                        'found' => 555,
+                        'placed' => 10,
+                    ),
+                ),
+            ),
+        ),
+    ), /* end of medal REGION_ZACHODNIOPOMORSKIE*/
+    MedalsContainer::REGION_SWIETOKRZYSKIE => array(
+        'name' => _('regionSwietokrzyskie'),
+        'description' => _('Medal for geocaching in swietokrzyskie'),
+        'type' => MedalsController::MEDAL_TYPE_REGION,
+        'dateIntroduced' => '2006-04-09 10:30:00',
+        'conditions' => array(
+            'cacheType' => array(
+                GeoCache::TYPE_TRADITIONAL,
+                GeoCache::TYPE_MULTICACHE,
+                GeoCache::TYPE_QUIZ,
+                GeoCache::TYPE_OTHERTYPE,
+            ),
+            'cacheLocation' => array(
+                'code3' => 'PL33',
+            ),
+            'minimumAltitude' => false,
+            'cacheCountToAward' => array(
+                1 => array(
+                    'levelName' => _('swietokrzyskie1'),
+                    'cacheCount' => array(
+                        'found' => 1,
+                        'placed' => 0,
+                    ),
+                ),
+                2 => array(
+                    'levelName' => _('swietokrzyskie2'),
+                    'cacheCount' => array(
+                        'found' => 15,
+                        'placed' => 0,
+                    ),
+                ),
+                3 => array(
+                    'levelName' => _('swietokrzyskie3'),
+                    'cacheCount' => array(
+                        'found' => 33,
+                        'placed' => 0,
+                    ),
+                ),
+                4 => array(
+                    'levelName' => _('swietokrzyskie4'),
+                    'cacheCount' => array(
+                        'found' => 75,
+                        'placed' => 1,
+                    ),
+                ),
+                5 => array(
+                    'levelName' => _('swietokrzyskie5'),
+                    'cacheCount' => array(
+                        'found' => 155,
+                        'placed' => 2,
+                    ),
+                ),
+                6 => array(
+                    'levelName' => _('swietokrzyskie6'),
+                    'cacheCount' => array(
+                        'found' => 333,
+                        'placed' => 5,
+                    ),
+                ),
+                7 => array(
+                    'levelName' => _('swietokrzyskie7'),
+                    'cacheCount' => array(
+                        'found' => 555,
+                        'placed' => 10,
+                    ),
+                ),
+            ),
+        ),
+    ), /* end of medal REGION_SWIETOKRZYSKIE*/
     MedalsContainer::CACHE_TRADITIONAL => array(
         'name' => _('TraditionalCache'),
         'description' => _('Medal for traditional caches activity'),

@@ -11,7 +11,7 @@ namespace lib\Objects\Medals;
 class MedalsContainer
 {
     const REGION_MALOPOLSKA = 1;
-    const REGION_KRAKOW = 2;
+//    const REGION_KRAKOW = 2;
     const CACHE_TRADITIONAL = 3;
     const GEOPATH_KOTLINAJELENIOGORSKA = 4;
     const REGION_LUBELSKI = 5;
@@ -25,6 +25,7 @@ class MedalsContainer
     const OLDGEOCACHER = 13;
     const REGION_BIESZCZADY = 14;
     const CACHE_OWNER = 15;
+
     const REGION_DOLNYSLASK = 16;
     const REGION_KUJAWSKOPOMORSKIE = 17;
     const REGION_LUBELSKIE = 18;
@@ -33,5 +34,11 @@ class MedalsContainer
     const REGION_OPOLSKIE = 21;
     const REGION_PODKARPACKIE = 22;
     const REGION_PODLASKIE = 23;
+    const REGION_LODZKIE = 24;
+    const REGION_WARMINSKOMAZURSKIE = 25;
+    const REGION_POMORSKIE = 26;
     const REGION_WIELKOPOLSKIE = 27;
+    const REGION_SLASKIE = 28;
+    const REGION_ZACHODNIOPOMORSKIE = 29;
+    const REGION_SWIETOKRZYSKIE = 30;
 }
