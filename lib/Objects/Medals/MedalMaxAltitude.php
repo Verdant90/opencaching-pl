@@ -26,17 +26,15 @@ class MedalMaxAltitude extends Medal implements MedalInterface
             WHERE caches.`cache_id` = caches_additions.`cache_id` AND cache_logs.cache_id = caches.`cache_id`
             AND cache_logs.type = 1 AND cache_logs.user_id = :1 AND caches.type IN(:2)';
         $cacheTypes = $this->buildCacheTypesSqlString();
-
-        $s = $db->multiVariableQuery($queryFound, $user->getUserId(), $cacheTypes);
-        $foundMaxAltitudeRaw = $db->dbResultFetchOneRowOnly($s);
-
+        $foundResult = $db->multiVariableQuery($queryFound, $user->getUserId(), $cacheTypes);
+        $foundMaxAltitudeRaw = $db->dbResultFetchOneRowOnly($foundResult);
         $foundMaxAltitude = (int) $foundMaxAltitudeRaw['maxAltitude'];
+
         $queryPlaced = 'SELECT MAX(`altitude`) as maxAltitude FROM `caches`, `caches_additions`
             WHERE caches.`cache_id` = caches_additions.`cache_id`
-            AND cache.user_id = :1 AND caches.type IN(:2) AND cache.status = :3';
-        $s = $db->multiVariableQuery($queryPlaced, $user->getUserId(), $cacheTypes, \cache::STATUS_READY);
-        $placedMaxAltitudeRaw = $db->dbResultFetchOneRowOnly($s);
-
+            AND caches.user_id = :1 AND caches.type IN(:2) AND caches.status = :3  ';
+        $placedResult = $db->multiVariableQuery($queryPlaced, $user->getUserId(), $cacheTypes, \lib\Objects\GeoCache\GeoCache::STATUS_READY);
+        $placedMaxAltitudeRaw = $db->dbResultFetchOneRowOnly($placedResult);
         $placedMaxAltitude = (int) $placedMaxAltitudeRaw['maxAltitude'];
         $this->findLevel($foundMaxAltitude, $placedMaxAltitude);
         $this->storeMedalStatus($user);
