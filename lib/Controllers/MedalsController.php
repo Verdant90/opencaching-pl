@@ -24,7 +24,7 @@ class MedalsController
         $this->config = \lib\Objects\OcConfig\OcConfig::instance();
     }
 
-    public function checkMedalConditions(\lib\Objects\User\User $user)
+    private function checkMedalConditions(\lib\Objects\User\User $user)
     {
         // $cache = new \lib\Objects\GeoCache(array('cacheId' => $params['cacheId']));
         $allPossibleMedals = $this->allMedals();
@@ -42,10 +42,11 @@ class MedalsController
 
         $db = OcDb::instance();
         $s = $db->simpleQuery($query);
-        d($db->rowCount($s));
 
         $timeStart = microtime();
         $usersToCheck = $db->dbResultFetchAll($s);
+
+        d($db->rowCount($s), $usersToCheck);
 
         foreach ($usersToCheck as $userDbRow) {
             $user = new \lib\Objects\User\User(array('userDbRow' => $userDbRow));
@@ -59,7 +60,11 @@ class MedalsController
     public static function getMedalConfigByMedalId($medalId)
     {
         $medalConfig = self::getConfig();
-        return $medalConfig[$medalId];
+        if(isset($medalConfig[$medalId])){
+            return $medalConfig[$medalId];
+        } else {
+            return false;
+        }
     }
 
     public static function getConfig()
