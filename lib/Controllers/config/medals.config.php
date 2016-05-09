@@ -12,7 +12,7 @@ Pomorskie PL63
 Warmińsko-Mazurskie PL62
 Wielkopolskie PL41
 Zachodniopomorskie PL42
-Łódzkie PL11
+
 */
 /**
  * configuration table for medals
@@ -634,6 +634,76 @@ return array(
                 ),
                 7 => array(
                     'levelName' => _('gold'),
+                    'cacheCount' => array(
+                        'found' => 555,
+                        'placed' => 10,
+                    ),
+                ),
+            ),
+        ),
+    ), /* end of medal */
+
+    MedalsContainer::REGION_LODZKIE => array(
+        'name' => _('regionLodzkie'),
+        'description' => _('Medal for geocaching in Lodzkie'),
+        'type' => MedalsController::MEDAL_TYPE_REGION,
+        'dateIntroduced' => '2006-04-09 10:30:00',
+        'conditions' => array(
+            'cacheType' => array(
+                GeoCache::TYPE_TRADITIONAL,
+                GeoCache::TYPE_MULTICACHE,
+                GeoCache::TYPE_QUIZ,
+                GeoCache::TYPE_OTHERTYPE,
+            ),
+            'cacheLocation' => array(
+                'code3' => 'PL11', 
+            ),
+            'minimumAltitude' => false,
+            'cacheCountToAward' => array(
+                1 => array(
+                    'levelName' => _('lodzkie1'),
+                    'cacheCount' => array(
+                        'found' => 1,
+                        'placed' => 0,
+                    ),
+                ),
+                2 => array(
+                    'levelName' => _('lodzkie2'),
+                    'cacheCount' => array(
+                        'found' => 15,
+                        'placed' => 0,
+                    ),
+                ),
+                3 => array(
+                    'levelName' => _('lodzkie3'),
+                    'cacheCount' => array(
+                        'found' => 33,
+                        'placed' => 0,
+                    ),
+                ),
+                4 => array(
+                    'levelName' => _('lodzkie4'),
+                    'cacheCount' => array(
+                        'found' => 75,
+                        'placed' => 1,
+                    ),
+                ),
+                5 => array(
+                    'levelName' => _('lodzkie5'),
+                    'cacheCount' => array(
+                        'found' => 155,
+                        'placed' => 2,
+                    ),
+                ),
+                6 => array(
+                    'levelName' => _('lodzkie6'),
+                    'cacheCount' => array(
+                        'found' => 333,
+                        'placed' => 5,
+                    ),
+                ),
+                7 => array(
+                    'levelName' => _('lodzkie7'),
                     'cacheCount' => array(
                         'found' => 555,
                         'placed' => 10,
