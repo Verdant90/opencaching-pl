@@ -33,4 +33,5 @@ class MedalsContainer
     const REGION_OPOLSKIE = 21;
     const REGION_PODKARPACKIE = 22;
     const REGION_PODLASKIE = 23;
+    const REGION_WIELKOPOLSKIE = 27;
 }
