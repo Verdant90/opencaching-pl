@@ -9,7 +9,6 @@ use lib\Objects\Medals\MedalsContainer;
 Pomorskie PL63
 Śląskie PL22
 Świętokrzyskie PL33
-Warmińsko-Mazurskie PL62
 Wielkopolskie PL41
 Zachodniopomorskie PL42
 
@@ -781,7 +780,76 @@ return array(
             ),
         ),
     ), /* end of medal REGION_MAZOWIECKIE*/
-    
+  MedalsContainer::REGION_WARMINSKOMAZURSKIE => array(
+        'name' => _('regionWarminskoMazurskie'),
+        'description' => _('Medal for geocaching in WarminskoMazurskie'),
+        'type' => MedalsController::MEDAL_TYPE_REGION,
+        'dateIntroduced' => '2006-04-09 10:30:00',
+        'conditions' => array(
+            'cacheType' => array(
+                GeoCache::TYPE_TRADITIONAL,
+                GeoCache::TYPE_MULTICACHE,
+                GeoCache::TYPE_QUIZ,
+                GeoCache::TYPE_OTHERTYPE,
+            ),
+            'cacheLocation' => array(
+                'code3' => 'PL62',
+            ),
+            'minimumAltitude' => false,
+            'cacheCountToAward' => array(
+                1 => array(
+                    'levelName' => _('warminskomazurskie1'),
+                    'cacheCount' => array(
+                        'found' => 1,
+                        'placed' => 0,
+                    ),
+                ),
+                2 => array(
+                    'levelName' => _('warminskomazurskie2'),
+                    'cacheCount' => array(
+                        'found' => 15,
+                        'placed' => 0,
+                    ),
+                ),
+                3 => array(
+                    'levelName' => _('warminskomazurskie3'),
+                    'cacheCount' => array(
+                        'found' => 33,
+                        'placed' => 0,
+                    ),
+                ),
+                4 => array(
+                    'levelName' => _('warminskomazurskie4'),
+                    'cacheCount' => array(
+                        'found' => 75,
+                        'placed' => 1,
+                    ),
+                ),
+                5 => array(
+                    'levelName' => _('warminskomazurskie5'),
+                    'cacheCount' => array(
+                        'found' => 155,
+                        'placed' => 2,
+                    ),
+                ),
+                6 => array(
+                    'levelName' => _('warminskomazurskie6'),
+                    'cacheCount' => array(
+                        'found' => 333,
+                        'placed' => 5,
+                    ),
+                ),
+                7 => array(
+                    'levelName' => _('warminskomazurskie7'),
+                    'cacheCount' => array(
+                        'found' => 555,
+                        'placed' => 10,
+                    ),
+                ),
+            ),
+        ),
+    ), /* end of medal REGION_WARMINSKOMAZURSKIE*/
+
     MedalsContainer::CACHE_TRADITIONAL => array(
         'name' => _('TraditionalCache'),
         'description' => _('Medal for traditional caches activity'),
