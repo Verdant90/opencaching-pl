@@ -4,15 +4,7 @@ use lib\Controllers\MedalsController;
 use lib\Objects\GeoCache\GeoCache;
 use lib\Objects\OcConfig\OcConfig;
 use lib\Objects\Medals\MedalsContainer;
-/*
 
-Pomorskie PL63
-Śląskie PL22
-Świętokrzyskie PL33
-Wielkopolskie PL41
-Zachodniopomorskie PL42
-
-*/
 /**
  * configuration table for medals
  */
@@ -238,75 +230,6 @@ return array(
             ),
             'cacheLocation' => array(
                 'code3' => 'PL52',
-            ),
-            'minimumAltitude' => false,
-            'cacheCountToAward' => array(
-                1 => array(
-                    'levelName' => _('paper'),
-                    'cacheCount' => array(
-                        'found' => 1,
-                        'placed' => 0,
-                    ),
-                ),
-                2 => array(
-                    'levelName' => _('wooden'),
-                    'cacheCount' => array(
-                        'found' => 15,
-                        'placed' => 0,
-                    ),
-                ),
-                3 => array(
-                    'levelName' => _('iron'),
-                    'cacheCount' => array(
-                        'found' => 33,
-                        'placed' => 0,
-                    ),
-                ),
-                4 => array(
-                    'levelName' => _('beril'),
-                    'cacheCount' => array(
-                        'found' => 75,
-                        'placed' => 1,
-                    ),
-                ),
-                5 => array(
-                    'levelName' => _('bronze'),
-                    'cacheCount' => array(
-                        'found' => 155,
-                        'placed' => 2,
-                    ),
-                ),
-                6 => array(
-                    'levelName' => _('silver'),
-                    'cacheCount' => array(
-                        'found' => 333,
-                        'placed' => 5,
-                    ),
-                ),
-                7 => array(
-                    'levelName' => _('gold'),
-                    'cacheCount' => array(
-                        'found' => 555,
-                        'placed' => 10,
-                    ),
-                ),
-            ),
-        ),
-    ), /* end of medal */
-    MedalsContainer::REGION_MALOPOLSKA => array(
-        'name' => _('regionMazowieckie'),
-        'description' => _('Medal for geocaching in Mazowieckie'),
-        'type' => MedalsController::MEDAL_TYPE_REGION,
-        'dateIntroduced' => '2006-04-09 10:30:00',
-        'conditions' => array(
-            'cacheType' => array(
-                GeoCache::TYPE_TRADITIONAL,
-                GeoCache::TYPE_MULTICACHE,
-                GeoCache::TYPE_QUIZ,
-                GeoCache::TYPE_OTHERTYPE,
-            ),
-            'cacheLocation' => array(
-                'code3' => 'PL12',
             ),
             'minimumAltitude' => false,
             'cacheCountToAward' => array(
@@ -798,49 +721,49 @@ return array(
             'minimumAltitude' => false,
             'cacheCountToAward' => array(
                 1 => array(
-                    'levelName' => _('warminskomazurskie1'),
+                    'levelName' => _('pomorskie1'),
                     'cacheCount' => array(
                         'found' => 1,
                         'placed' => 0,
                     ),
                 ),
                 2 => array(
-                    'levelName' => _('warminskomazurskie2'),
+                    'levelName' => _('pomorskie2'),
                     'cacheCount' => array(
                         'found' => 15,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
-                    'levelName' => _('warminskomazurskie3'),
+                    'levelName' => _('pomorskie3'),
                     'cacheCount' => array(
                         'found' => 33,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
-                    'levelName' => _('warminskomazurskie4'),
+                    'levelName' => _('pomorskie4'),
                     'cacheCount' => array(
                         'found' => 75,
                         'placed' => 1,
                     ),
                 ),
                 5 => array(
-                    'levelName' => _('warminskomazurskie5'),
+                    'levelName' => _('pomorskie5'),
                     'cacheCount' => array(
                         'found' => 155,
                         'placed' => 2,
                     ),
                 ),
                 6 => array(
-                    'levelName' => _('warminskomazurskie6'),
+                    'levelName' => _('pomorskie6'),
                     'cacheCount' => array(
                         'found' => 333,
                         'placed' => 5,
                     ),
                 ),
                 7 => array(
-                    'levelName' => _('warminskomazurskie7'),
+                    'levelName' => _('pomorskie7'),
                     'cacheCount' => array(
                         'found' => 555,
                         'placed' => 10,
@@ -848,8 +771,145 @@ return array(
                 ),
             ),
         ),
-    ), /* end of medal REGION_WARMINSKOMAZURSKIE*/
-
+    ), /* end of medal REGION_POMORSKIE*/
+  MedalsContainer::REGION_POMORSKIE => array(
+        'name' => _('regionPomorskie'),
+        'description' => _('Medal for geocaching in pomorskie'),
+        'type' => MedalsController::MEDAL_TYPE_REGION,
+        'dateIntroduced' => '2006-04-09 10:30:00',
+        'conditions' => array(
+            'cacheType' => array(
+                GeoCache::TYPE_TRADITIONAL,
+                GeoCache::TYPE_MULTICACHE,
+                GeoCache::TYPE_QUIZ,
+                GeoCache::TYPE_OTHERTYPE,
+            ),
+            'cacheLocation' => array(
+                'code3' => 'PL63',
+            ),
+            'minimumAltitude' => false,
+            'cacheCountToAward' => array(
+                1 => array(
+                    'levelName' => _('pomorskie1'),
+                    'cacheCount' => array(
+                        'found' => 1,
+                        'placed' => 0,
+                    ),
+                ),
+                2 => array(
+                    'levelName' => _('pomorskie2'),
+                    'cacheCount' => array(
+                        'found' => 15,
+                        'placed' => 0,
+                    ),
+                ),
+                3 => array(
+                    'levelName' => _('pomorskie3'),
+                    'cacheCount' => array(
+                        'found' => 33,
+                        'placed' => 0,
+                    ),
+                ),
+                4 => array(
+                    'levelName' => _('pomorskie4'),
+                    'cacheCount' => array(
+                        'found' => 75,
+                        'placed' => 1,
+                    ),
+                ),
+                5 => array(
+                    'levelName' => _('pomorskie5'),
+                    'cacheCount' => array(
+                        'found' => 155,
+                        'placed' => 2,
+                    ),
+                ),
+                6 => array(
+                    'levelName' => _('pomorskie6'),
+                    'cacheCount' => array(
+                        'found' => 333,
+                        'placed' => 5,
+                    ),
+                ),
+                7 => array(
+                    'levelName' => _('pomorskie7'),
+                    'cacheCount' => array(
+                        'found' => 555,
+                        'placed' => 10,
+                    ),
+                ),
+            ),
+        ),
+    ), /* end of medal REGION_POMORSKIE*/
+ MedalsContainer::REGION_WIELKOPOLSKIE => array(
+        'name' => _('regionWielkopolska'),
+        'description' => _('Medal for geocaching in wielkopolska'),
+        'type' => MedalsController::MEDAL_TYPE_REGION,
+        'dateIntroduced' => '2006-04-09 10:30:00',
+        'conditions' => array(
+            'cacheType' => array(
+                GeoCache::TYPE_TRADITIONAL,
+                GeoCache::TYPE_MULTICACHE,
+                GeoCache::TYPE_QUIZ,
+                GeoCache::TYPE_OTHERTYPE,
+            ),
+            'cacheLocation' => array(
+                'code3' => 'PL41',
+            ),
+            'minimumAltitude' => false,
+            'cacheCountToAward' => array(
+                1 => array(
+                    'levelName' => _('wielkopolskie1'),
+                    'cacheCount' => array(
+                        'found' => 1,
+                        'placed' => 0,
+                    ),
+                ),
+                2 => array(
+                    'levelName' => _('wielkopolskie2'),
+                    'cacheCount' => array(
+                        'found' => 15,
+                        'placed' => 0,
+                    ),
+                ),
+                3 => array(
+                    'levelName' => _('wielkopolskie3'),
+                    'cacheCount' => array(
+                        'found' => 33,
+                        'placed' => 0,
+                    ),
+                ),
+                4 => array(
+                    'levelName' => _('wielkopolskie4'),
+                    'cacheCount' => array(
+                        'found' => 75,
+                        'placed' => 1,
+                    ),
+                ),
+                5 => array(
+                    'levelName' => _('wielkopolskie5'),
+                    'cacheCount' => array(
+                        'found' => 155,
+                        'placed' => 2,
+                    ),
+                ),
+                6 => array(
+                    'levelName' => _('wielkopolskie6'),
+                    'cacheCount' => array(
+                        'found' => 333,
+                        'placed' => 5,
+                    ),
+                ),
+                7 => array(
+                    'levelName' => _('wielkopolskie7'),
+                    'cacheCount' => array(
+                        'found' => 555,
+                        'placed' => 10,
+                    ),
+                ),
+            ),
+        ),
+    ), /* end of medal REGION_WIELKOPOLSKIE*/
     MedalsContainer::REGION_SLASKIE => array(
         'name' => _('regionSlaskie'),
         'description' => _('Medal for geocaching in slaskie'),
