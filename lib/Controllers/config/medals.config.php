@@ -36,43 +36,43 @@ return array(
                 2 => array(
                     'levelName' => _('wooden'),
                     'cacheCount' => array(
-                        'found' => 15,
+                        'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
                     'levelName' => _('iron'),
                     'cacheCount' => array(
-                        'found' => 33,
+                        'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
                     'levelName' => _('beril'),
                     'cacheCount' => array(
-                        'found' => 75,
-                        'placed' => 1,
+                        'found' => 100,
+                        'placed' => 0,
                     ),
                 ),
                 5 => array(
                     'levelName' => _('bronze'),
                     'cacheCount' => array(
-                        'found' => 155,
-                        'placed' => 2,
+                        'found' => 200,
+                        'placed' => 0,
                     ),
                 ),
                 6 => array(
                     'levelName' => _('silver'),
                     'cacheCount' => array(
-                        'found' => 333,
-                        'placed' => 5,
+                        'found' => 500,
+                        'placed' => 0,
                     ),
                 ),
                 7 => array(
                     'levelName' => _('gold'),
                     'cacheCount' => array(
-                        'found' => 555,
-                        'placed' => 10,
+                        'found' => 1000,
+                        'placed' => 0,
                     ),
                 ),
             ),
@@ -105,43 +105,43 @@ return array(
                 2 => array(
                     'levelName' => _('wooden'),
                     'cacheCount' => array(
-                        'found' => 15,
+                        'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
                     'levelName' => _('iron'),
                     'cacheCount' => array(
-                        'found' => 33,
+                        'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
                     'levelName' => _('beril'),
                     'cacheCount' => array(
-                        'found' => 75,
-                        'placed' => 1,
+                        'found' => 100,
+                        'placed' => 0,
                     ),
                 ),
                 5 => array(
                     'levelName' => _('bronze'),
                     'cacheCount' => array(
-                        'found' => 155,
-                        'placed' => 2,
+                        'found' => 200,
+                        'placed' => 0,
                     ),
                 ),
                 6 => array(
                     'levelName' => _('silver'),
                     'cacheCount' => array(
-                        'found' => 333,
-                        'placed' => 5,
+                        'found' => 500,
+                        'placed' => 0,
                     ),
                 ),
                 7 => array(
                     'levelName' => _('gold'),
                     'cacheCount' => array(
-                        'found' => 555,
-                        'placed' => 10,
+                        'found' => 1000,
+                        'placed' => 0,
                     ),
                 ),
             ),
@@ -174,43 +174,43 @@ return array(
                 2 => array(
                     'levelName' => _('wooden'),
                     'cacheCount' => array(
-                        'found' => 15,
+                        'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
                     'levelName' => _('iron'),
                     'cacheCount' => array(
-                        'found' => 33,
+                        'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
                     'levelName' => _('beril'),
                     'cacheCount' => array(
-                        'found' => 75,
-                        'placed' => 1,
+                        'found' => 100,
+                        'placed' => 0,
                     ),
                 ),
                 5 => array(
                     'levelName' => _('bronze'),
                     'cacheCount' => array(
-                        'found' => 155,
-                        'placed' => 2,
+                        'found' => 200,
+                        'placed' => 0,
                     ),
                 ),
                 6 => array(
                     'levelName' => _('silver'),
                     'cacheCount' => array(
-                        'found' => 333,
-                        'placed' => 5,
+                        'found' => 500,
+                        'placed' => 0,
                     ),
                 ),
                 7 => array(
                     'levelName' => _('gold'),
                     'cacheCount' => array(
-                        'found' => 555,
-                        'placed' => 10,
+                        'found' => 1000,
+                        'placed' => 0,
                     ),
                 ),
             ),
@@ -243,43 +243,42 @@ return array(
                 2 => array(
                     'levelName' => _('wooden'),
                     'cacheCount' => array(
-                        'found' => 15,
+                        'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
                     'levelName' => _('iron'),
                     'cacheCount' => array(
-                        'found' => 33,
+                        'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
                     'levelName' => _('beril'),
                     'cacheCount' => array(
-                        'found' => 75,
-                        'placed' => 1,
-                    ),
+                        'found' => 100,
+                        'placed' => 0
                 ),
                 5 => array(
                     'levelName' => _('bronze'),
                     'cacheCount' => array(
-                        'found' => 155,
-                        'placed' => 2,
+                        'found' => 200,
+                        'placed' => 0,
                     ),
                 ),
                 6 => array(
                     'levelName' => _('silver'),
                     'cacheCount' => array(
-                        'found' => 333,
-                        'placed' => 5,
+                        'found' => 500,
+                        'placed' => 0,
                     ),
                 ),
                 7 => array(
                     'levelName' => _('gold'),
                     'cacheCount' => array(
-                        'found' => 555,
-                        'placed' => 10,
+                        'found' => 1000,
+                        'placed' => 0,
                     ),
                 ),
             ),
@@ -312,43 +311,43 @@ return array(
                 2 => array(
                     'levelName' => _('wooden'),
                     'cacheCount' => array(
-                        'found' => 15,
+                        'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
                     'levelName' => _('iron'),
                     'cacheCount' => array(
-                        'found' => 33,
+                        'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
                     'levelName' => _('beril'),
                     'cacheCount' => array(
-                        'found' => 75,
-                        'placed' => 1,
+                        'found' => 100,
+                        'placed' => 0,
                     ),
                 ),
                 5 => array(
                     'levelName' => _('bronze'),
                     'cacheCount' => array(
-                        'found' => 155,
-                        'placed' => 2,
+                        'found' => 200,
+                        'placed' => 0,
                     ),
                 ),
                 6 => array(
                     'levelName' => _('silver'),
                     'cacheCount' => array(
-                        'found' => 333,
-                        'placed' => 5,
+                        'found' => 500,
+                        'placed' => 0,
                     ),
                 ),
                 7 => array(
                     'levelName' => _('gold'),
                     'cacheCount' => array(
-                        'found' => 555,
-                        'placed' => 10,
+                        'found' => 1000,
+                        'placed' => 0,
                     ),
                 ),
             ),
@@ -382,43 +381,43 @@ return array(
                 2 => array(
                     'levelName' => _('wooden'),
                     'cacheCount' => array(
-                        'found' => 15,
+                        'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
                     'levelName' => _('iron'),
                     'cacheCount' => array(
-                        'found' => 33,
+                        'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
                     'levelName' => _('beril'),
                     'cacheCount' => array(
-                        'found' => 75,
-                        'placed' => 1,
+                        'found' => 100,
+                        'placed' => 0,
                     ),
                 ),
                 5 => array(
                     'levelName' => _('bronze'),
                     'cacheCount' => array(
-                        'found' => 155,
-                        'placed' => 2,
+                        'found' => 200,
+                        'placed' => 0,
                     ),
                 ),
                 6 => array(
                     'levelName' => _('silver'),
                     'cacheCount' => array(
-                        'found' => 333,
-                        'placed' => 5,
+                        'found' => 500,
+                        'placed' => 0,
                     ),
                 ),
                 7 => array(
                     'levelName' => _('gold'),
                     'cacheCount' => array(
-                        'found' => 555,
-                        'placed' => 10,
+                        'found' => 1000,
+                        'placed' => 0,
                     ),
                 ),
             ),
@@ -452,43 +451,43 @@ return array(
                 2 => array(
                     'levelName' => _('wooden'),
                     'cacheCount' => array(
-                        'found' => 15,
+                        'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
                     'levelName' => _('iron'),
                     'cacheCount' => array(
-                        'found' => 33,
+                        'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
                     'levelName' => _('beril'),
                     'cacheCount' => array(
-                        'found' => 75,
-                        'placed' => 1,
+                        'found' => 100,
+                        'placed' => 0,
                     ),
                 ),
                 5 => array(
                     'levelName' => _('bronze'),
                     'cacheCount' => array(
-                        'found' => 155,
-                        'placed' => 2,
+                        'found' => 200,
+                        'placed' => 0,
                     ),
                 ),
                 6 => array(
                     'levelName' => _('silver'),
                     'cacheCount' => array(
-                        'found' => 333,
-                        'placed' => 5,
+                        'found' => 500,
+                        'placed' => 0,
                     ),
                 ),
                 7 => array(
                     'levelName' => _('gold'),
                     'cacheCount' => array(
-                        'found' => 555,
-                        'placed' => 10,
+                        'found' => 1000,
+                        'placed' => 0,
                     ),
                 ),
             ),
@@ -522,43 +521,43 @@ return array(
                 2 => array(
                     'levelName' => _('wooden'),
                     'cacheCount' => array(
-                        'found' => 15,
+                        'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
                     'levelName' => _('iron'),
                     'cacheCount' => array(
-                        'found' => 33,
+                        'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
                     'levelName' => _('beril'),
                     'cacheCount' => array(
-                        'found' => 75,
-                        'placed' => 1,
+                        'found' => 100,
+                        'placed' => 0,
                     ),
                 ),
                 5 => array(
                     'levelName' => _('bronze'),
                     'cacheCount' => array(
-                        'found' => 155,
-                        'placed' => 2,
+                        'found' => 200,
+                        'placed' => 0,
                     ),
                 ),
                 6 => array(
                     'levelName' => _('silver'),
                     'cacheCount' => array(
-                        'found' => 333,
-                        'placed' => 5,
+                        'found' => 500,
+                        'placed' => 0,
                     ),
                 ),
                 7 => array(
                     'levelName' => _('gold'),
                     'cacheCount' => array(
-                        'found' => 555,
-                        'placed' => 10,
+                        'found' => 1000,
+                        'placed' => 0,
                     ),
                 ),
             ),
@@ -592,43 +591,43 @@ return array(
                 2 => array(
                     'levelName' => _('lodzkie2'),
                     'cacheCount' => array(
-                        'found' => 15,
+                        'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
                     'levelName' => _('lodzkie3'),
                     'cacheCount' => array(
-                        'found' => 33,
+                        'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
                     'levelName' => _('lodzkie4'),
                     'cacheCount' => array(
-                        'found' => 75,
-                        'placed' => 1,
+                        'found' => 100,
+                        'placed' => 0,
                     ),
                 ),
                 5 => array(
                     'levelName' => _('lodzkie5'),
                     'cacheCount' => array(
-                        'found' => 155,
-                        'placed' => 2,
+                        'found' => 200,
+                        'placed' => 0,
                     ),
                 ),
                 6 => array(
                     'levelName' => _('lodzkie6'),
                     'cacheCount' => array(
-                        'found' => 333,
-                        'placed' => 5,
+                        'found' => 500,
+                        'placed' => 0,
                     ),
                 ),
                 7 => array(
                     'levelName' => _('lodzkie7'),
                     'cacheCount' => array(
-                        'found' => 555,
-                        'placed' => 10,
+                        'found' => 1000,
+                        'placed' => 0,
                     ),
                 ),
             ),
@@ -661,43 +660,43 @@ return array(
                 2 => array(
                     'levelName' => _('mazowieckie2'),
                     'cacheCount' => array(
-                        'found' => 15,
+                        'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
                     'levelName' => _('mazowieckie3'),
                     'cacheCount' => array(
-                        'found' => 33,
+                        'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
                     'levelName' => _('mazowieckie4'),
                     'cacheCount' => array(
-                        'found' => 75,
-                        'placed' => 1,
+                        'found' => 100,
+                        'placed' => 0,
                     ),
                 ),
                 5 => array(
                     'levelName' => _('mazowieckie5'),
                     'cacheCount' => array(
-                        'found' => 155,
-                        'placed' => 2,
+                        'found' => 200,
+                        'placed' => 0,
                     ),
                 ),
                 6 => array(
                     'levelName' => _('mazowieckie6'),
                     'cacheCount' => array(
-                        'found' => 333,
-                        'placed' => 5,
+                        'found' => 500,
+                        'placed' => 0,
                     ),
                 ),
                 7 => array(
                     'levelName' => _('mazowieckie7'),
                     'cacheCount' => array(
-                        'found' => 555,
-                        'placed' => 10,
+                        'found' => 1000,
+                        'placed' => 0,
                     ),
                 ),
             ),
@@ -730,43 +729,43 @@ return array(
                 2 => array(
                     'levelName' => _('pomorskie2'),
                     'cacheCount' => array(
-                        'found' => 15,
+                        'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
                     'levelName' => _('pomorskie3'),
                     'cacheCount' => array(
-                        'found' => 33,
+                        'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
                     'levelName' => _('pomorskie4'),
                     'cacheCount' => array(
-                        'found' => 75,
-                        'placed' => 1,
+                        'found' => 100,
+                        'placed' => 0,
                     ),
                 ),
                 5 => array(
                     'levelName' => _('pomorskie5'),
                     'cacheCount' => array(
-                        'found' => 155,
-                        'placed' => 2,
+                        'found' => 200,
+                        'placed' => 0,
                     ),
                 ),
                 6 => array(
                     'levelName' => _('pomorskie6'),
                     'cacheCount' => array(
-                        'found' => 333,
-                        'placed' => 5,
+                        'found' => 500,
+                        'placed' => 0,
                     ),
                 ),
                 7 => array(
                     'levelName' => _('pomorskie7'),
                     'cacheCount' => array(
-                        'found' => 555,
-                        'placed' => 10,
+                        'found' => 1000,
+                        'placed' => 0,
                     ),
                 ),
             ),
@@ -806,36 +805,36 @@ return array(
                 3 => array(
                     'levelName' => _('pomorskie3'),
                     'cacheCount' => array(
-                        'found' => 33,
+                        'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
                     'levelName' => _('pomorskie4'),
                     'cacheCount' => array(
-                        'found' => 75,
-                        'placed' => 1,
+                        'found' => 100,
+                        'placed' => 0,
                     ),
                 ),
                 5 => array(
                     'levelName' => _('pomorskie5'),
                     'cacheCount' => array(
-                        'found' => 155,
-                        'placed' => 2,
+                        'found' => 200,
+                        'placed' => 0,
                     ),
                 ),
                 6 => array(
                     'levelName' => _('pomorskie6'),
                     'cacheCount' => array(
-                        'found' => 333,
-                        'placed' => 5,
+                        'found' => 500,
+                        'placed' => 0,
                     ),
                 ),
                 7 => array(
                     'levelName' => _('pomorskie7'),
                     'cacheCount' => array(
-                        'found' => 555,
-                        'placed' => 10,
+                        'found' => 1000,
+                        'placed' => 0,
                     ),
                 ),
             ),
@@ -868,43 +867,43 @@ return array(
                 2 => array(
                     'levelName' => _('wielkopolskie2'),
                     'cacheCount' => array(
-                        'found' => 15,
+                        'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
                     'levelName' => _('wielkopolskie3'),
                     'cacheCount' => array(
-                        'found' => 33,
+                        'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
                     'levelName' => _('wielkopolskie4'),
                     'cacheCount' => array(
-                        'found' => 75,
-                        'placed' => 1,
+                        'found' => 100,
+                        'placed' => 0,
                     ),
                 ),
                 5 => array(
                     'levelName' => _('wielkopolskie5'),
                     'cacheCount' => array(
-                        'found' => 155,
-                        'placed' => 2,
+                        'found' => 200,
+                        'placed' => 0,
                     ),
                 ),
                 6 => array(
                     'levelName' => _('wielkopolskie6'),
                     'cacheCount' => array(
-                        'found' => 333,
-                        'placed' => 5,
+                        'found' => 500,
+                        'placed' => 0,
                     ),
                 ),
                 7 => array(
                     'levelName' => _('wielkopolskie7'),
                     'cacheCount' => array(
-                        'found' => 555,
-                        'placed' => 10,
+                        'found' => 1000,
+                        'placed' => 0,
                     ),
                 ),
             ),
@@ -937,43 +936,43 @@ return array(
                 2 => array(
                     'levelName' => _('slaskie2'),
                     'cacheCount' => array(
-                        'found' => 15,
+                        'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
                     'levelName' => _('slaskie3'),
                     'cacheCount' => array(
-                        'found' => 33,
+                        'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
                     'levelName' => _('slaskie4'),
                     'cacheCount' => array(
-                        'found' => 75,
-                        'placed' => 1,
+                        'found' => 100,
+                        'placed' => 0,
                     ),
                 ),
                 5 => array(
                     'levelName' => _('slaskie5'),
                     'cacheCount' => array(
-                        'found' => 155,
-                        'placed' => 2,
+                        'found' => 200,
+                        'placed' => 0,
                     ),
                 ),
                 6 => array(
                     'levelName' => _('slaskie6'),
                     'cacheCount' => array(
-                        'found' => 333,
-                        'placed' => 5,
+                        'found' => 500,
+                        'placed' => 0,
                     ),
                 ),
                 7 => array(
                     'levelName' => _('slaskie7'),
                     'cacheCount' => array(
-                        'found' => 555,
-                        'placed' => 10,
+                        'found' => 1000,
+                        'placed' => 0,
                     ),
                 ),
             ),
@@ -1006,42 +1005,42 @@ return array(
                 2 => array(
                     'levelName' => _('zachodniopomorskie2'),
                     'cacheCount' => array(
-                        'found' => 15,
+                        'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
                     'levelName' => _('zachodniopomorskie3'),
                     'cacheCount' => array(
-                        'found' => 33,
+                        'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
                     'levelName' => _('zachodniopomorskie4'),
                     'cacheCount' => array(
-                        'found' => 75,
+                        'found' => 100,
                         'placed' => 1,
                     ),
                 ),
                 5 => array(
                     'levelName' => _('zachodniopomorskie5'),
                     'cacheCount' => array(
-                        'found' => 155,
+                        'found' => 200,
                         'placed' => 2,
                     ),
                 ),
                 6 => array(
                     'levelName' => _('zachodniopomorskie6'),
                     'cacheCount' => array(
-                        'found' => 333,
+                        'found' => 500,
                         'placed' => 5,
                     ),
                 ),
                 7 => array(
                     'levelName' => _('zachodniopomorskie7'),
                     'cacheCount' => array(
-                        'found' => 555,
+                        'found' => 1000,
                         'placed' => 10,
                     ),
                 ),
@@ -1075,42 +1074,42 @@ return array(
                 2 => array(
                     'levelName' => _('swietokrzyskie2'),
                     'cacheCount' => array(
-                        'found' => 15,
+                        'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
                     'levelName' => _('swietokrzyskie3'),
                     'cacheCount' => array(
-                        'found' => 33,
+                        'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
                     'levelName' => _('swietokrzyskie4'),
                     'cacheCount' => array(
-                        'found' => 75,
+                        'found' => 100,
                         'placed' => 1,
                     ),
                 ),
                 5 => array(
                     'levelName' => _('swietokrzyskie5'),
                     'cacheCount' => array(
-                        'found' => 155,
+                        'found' => 200,
                         'placed' => 2,
                     ),
                 ),
                 6 => array(
                     'levelName' => _('swietokrzyskie6'),
                     'cacheCount' => array(
-                        'found' => 333,
+                        'found' => 500,
                         'placed' => 5,
                     ),
                 ),
                 7 => array(
                     'levelName' => _('swietokrzyskie7'),
                     'cacheCount' => array(
-                        'found' => 555,
+                        'found' => 1000,
                         'placed' => 10,
                     ),
                 ),
