@@ -258,7 +258,8 @@ return array(
                     'levelName' => _('beril'),
                     'cacheCount' => array(
                         'found' => 100,
-                        'placed' => 0
+                        'placed' => 0,
+                    ),
                 ),
                 5 => array(
                     'levelName' => _('bronze'),
@@ -283,7 +284,8 @@ return array(
                 ),
             ),
         ),
-    ), /* end of medal */
+    ), /* end of medal REGION_OPOLSKIE */
+
     MedalsContainer::REGION_LUBUSKIE => array(
         'name' => _('regionLubuskie'),
         'description' => _('Medal for geocaching in Lubuskie'),
@@ -352,7 +354,7 @@ return array(
                 ),
             ),
         ),
-    ), /* end of medal */
+    ), /* end of medal REGION_LUBUSKIE*/
 
     MedalsContainer::REGION_DOLNYSLASK => array(
         'name' => _('regionDolnySlask'),
@@ -492,7 +494,7 @@ return array(
                 ),
             ),
         ),
-    ), /* end of medal */
+    ), /* end of medal REGION_LUBELSKIE */
 
  MedalsContainer::REGION_KUJAWSKOPOMORSKIE => array(
         'name' => _('regionKujawskoPomorskie'),
@@ -562,7 +564,7 @@ return array(
                 ),
             ),
         ),
-    ), /* end of medal */
+    ), /* end of medal REGION_KUJAWSKOPOMORSKIE*/
 
     MedalsContainer::REGION_LODZKIE => array(
         'name' => _('regionLodzkie'),
@@ -720,49 +722,49 @@ return array(
             'minimumAltitude' => false,
             'cacheCountToAward' => array(
                 1 => array(
-                    'levelName' => _('pomorskie1'),
+                    'levelName' => _('warminskomazurskie1'),
                     'cacheCount' => array(
                         'found' => 1,
                         'placed' => 0,
                     ),
                 ),
                 2 => array(
-                    'levelName' => _('pomorskie2'),
+                    'levelName' => _('warminskomazurskie2'),
                     'cacheCount' => array(
                         'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
-                    'levelName' => _('pomorskie3'),
+                    'levelName' => _('warminskomazurskie3'),
                     'cacheCount' => array(
                         'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
-                    'levelName' => _('pomorskie4'),
+                    'levelName' => _('warminskomazurskie4'),
                     'cacheCount' => array(
                         'found' => 100,
                         'placed' => 0,
                     ),
                 ),
                 5 => array(
-                    'levelName' => _('pomorskie5'),
+                    'levelName' => _('warminskomazurskie5'),
                     'cacheCount' => array(
                         'found' => 200,
                         'placed' => 0,
                     ),
                 ),
                 6 => array(
-                    'levelName' => _('pomorskie6'),
+                    'levelName' => _('warminskomazurskie6'),
                     'cacheCount' => array(
                         'found' => 500,
                         'placed' => 0,
                     ),
                 ),
                 7 => array(
-                    'levelName' => _('pomorskie7'),
+                    'levelName' => _('warminskomazurskie7'),
                     'cacheCount' => array(
                         'found' => 1000,
                         'placed' => 0,
