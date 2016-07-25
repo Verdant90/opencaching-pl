@@ -27,49 +27,49 @@ return array(
             'minimumAltitude' => false,
             'cacheCountToAward' => array(
                 1 => array(
-                    'levelName' => _('paper'),
+                    'levelName' => _('Barbakanowawelczyk'),
                     'cacheCount' => array(
                         'found' => 1,
                         'placed' => 0,
                     ),
                 ),
                 2 => array(
-                    'levelName' => _('wooden'),
+                    'levelName' => _('Zjadacz oscypków'),
                     'cacheCount' => array(
                         'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
-                    'levelName' => _('iron'),
+                    'levelName' => _('Ostańcowy jaskiniowiec'),
                     'cacheCount' => array(
                         'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
-                    'levelName' => _('beril'),
+                    'levelName' => _('Lajkonik'),
                     'cacheCount' => array(
                         'found' => 100,
                         'placed' => 0,
                     ),
                 ),
                 5 => array(
-                    'levelName' => _('bronze'),
+                    'levelName' => _('Smok Wawelski'),
                     'cacheCount' => array(
                         'found' => 200,
                         'placed' => 0,
                     ),
                 ),
                 6 => array(
-                    'levelName' => _('silver'),
+                    'levelName' => _('Starszy hejnalista'),
                     'cacheCount' => array(
                         'found' => 500,
                         'placed' => 0,
                     ),
                 ),
                 7 => array(
-                    'levelName' => _('gold'),
+                    'levelName' => _('Jagiellon Małopolski'),
                     'cacheCount' => array(
                         'found' => 1000,
                         'placed' => 0,
@@ -96,49 +96,49 @@ return array(
             'minimumAltitude' => false,
             'cacheCountToAward' => array(
                 1 => array(
-                    'levelName' => _('paper'),
+                    'levelName' => _('Amator żubra'),
                     'cacheCount' => array(
                         'found' => 1,
                         'placed' => 0,
                     ),
                 ),
                 2 => array(
-                    'levelName' => _('wooden'),
+                    'levelName' => _('Gość w Puszczy'),
                     'cacheCount' => array(
                         'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
-                    'levelName' => _('iron'),
+                    'levelName' => _('Przyjaciel Podlasia'),
                     'cacheCount' => array(
                         'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
-                    'levelName' => _('beril'),
+                    'levelName' => _('Tańczący z żubrami'),
                     'cacheCount' => array(
                         'found' => 100,
                         'placed' => 0,
                     ),
                 ),
                 5 => array(
-                    'levelName' => _('bronze'),
+                    'levelName' => _('Żubr pełną gębą'),
                     'cacheCount' => array(
                         'found' => 200,
                         'placed' => 0,
                     ),
                 ),
                 6 => array(
-                    'levelName' => _('silver'),
+                    'levelName' => _('Znawca Puszczy'),
                     'cacheCount' => array(
                         'found' => 500,
                         'placed' => 0,
                     ),
                 ),
                 7 => array(
-                    'levelName' => _('gold'),
+                    'levelName' => _('Prażubr'),
                     'cacheCount' => array(
                         'found' => 1000,
                         'placed' => 0,
@@ -165,49 +165,49 @@ return array(
             'minimumAltitude' => false,
             'cacheCountToAward' => array(
                 1 => array(
-                    'levelName' => _('paper'),
+                    'levelName' => _('Zielony Podkarpaciak'),
                     'cacheCount' => array(
                         'found' => 1,
                         'placed' => 0,
                     ),
                 ),
                 2 => array(
-                    'levelName' => _('wooden'),
+                    'levelName' => _('Turysta Leżajski'),
                     'cacheCount' => array(
                         'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
-                    'levelName' => _('iron'),
+                    'levelName' => _('Odkrywca Zapomnianych Cerkwii'),
                     'cacheCount' => array(
                         'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
-                    'levelName' => _('beril'),
+                    'levelName' => _('Bywalec Łęmkowszczyzny'),
                     'cacheCount' => array(
                         'found' => 100,
                         'placed' => 0,
                     ),
                 ),
                 5 => array(
-                    'levelName' => _('bronze'),
+                    'levelName' => _('wypalacz węgla drzewnego'),
                     'cacheCount' => array(
                         'found' => 200,
                         'placed' => 0,
                     ),
                 ),
                 6 => array(
-                    'levelName' => _('silver'),
+                    'levelName' => _('eksplorator dolinek'),
                     'cacheCount' => array(
                         'found' => 500,
                         'placed' => 0,
                     ),
                 ),
                 7 => array(
-                    'levelName' => _('gold'),
+                    'levelName' => _('Podkarpacki traper'),
                     'cacheCount' => array(
                         'found' => 1000,
                         'placed' => 0,
@@ -234,49 +234,49 @@ return array(
             'minimumAltitude' => false,
             'cacheCountToAward' => array(
                 1 => array(
-                    'levelName' => _('paper'),
+                    'levelName' => _('Kamerton'),
                     'cacheCount' => array(
                         'found' => 1,
                         'placed' => 0,
                     ),
                 ),
                 2 => array(
-                    'levelName' => _('wooden'),
+                    'levelName' => _('Solista'),
                     'cacheCount' => array(
                         'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
-                    'levelName' => _('iron'),
+                    'levelName' => _('Pierwsze skrzypce'),
                     'cacheCount' => array(
                         'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
-                    'levelName' => _('beril'),
+                    'levelName' => _('Dyrygent'),
                     'cacheCount' => array(
                         'found' => 100,
                         'placed' => 0,
                     ),
                 ),
                 5 => array(
-                    'levelName' => _('bronze'),
+                    'levelName' => _('Klawiszolog'),
                     'cacheCount' => array(
                         'found' => 200,
                         'placed' => 0,
                     ),
                 ),
                 6 => array(
-                    'levelName' => _('silver'),
+                    'levelName' => _('Śpiewający fotrepian'),
                     'cacheCount' => array(
                         'found' => 500,
                         'placed' => 0,
                     ),
                 ),
                 7 => array(
-                    'levelName' => _('gold'),
+                    'levelName' => _('Zdobywca złotego mikrofonu'),
                     'cacheCount' => array(
                         'found' => 1000,
                         'placed' => 0,
@@ -304,49 +304,49 @@ return array(
             'minimumAltitude' => false,
             'cacheCountToAward' => array(
                 1 => array(
-                    'levelName' => _('paper'),
+                    'levelName' => _('bunkrowy gość'),
                     'cacheCount' => array(
                         'found' => 1,
                         'placed' => 0,
                     ),
                 ),
                 2 => array(
-                    'levelName' => _('wooden'),
+                    'levelName' => _('Zabunkrowany turysta'),
                     'cacheCount' => array(
                         'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
-                    'levelName' => _('iron'),
+                    'levelName' => _('Odkrywca umocnień'),
                     'cacheCount' => array(
                         'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
-                    'levelName' => _('beril'),
+                    'levelName' => _('Bywalec fortyfikacji'),
                     'cacheCount' => array(
                         'found' => 100,
                         'placed' => 0,
                     ),
                 ),
                 5 => array(
-                    'levelName' => _('bronze'),
+                    'levelName' => _('odkrywca amunicji'),
                     'cacheCount' => array(
                         'found' => 200,
                         'placed' => 0,
                     ),
                 ),
                 6 => array(
-                    'levelName' => _('silver'),
+                    'levelName' => _('władca pancernego betonu'),
                     'cacheCount' => array(
                         'found' => 500,
                         'placed' => 0,
                     ),
                 ),
                 7 => array(
-                    'levelName' => _('gold'),
+                    'levelName' => _('człowiek z żelbetu'),
                     'cacheCount' => array(
                         'found' => 1000,
                         'placed' => 0,
@@ -514,49 +514,49 @@ return array(
             'minimumAltitude' => false,
             'cacheCountToAward' => array(
                 1 => array(
-                    'levelName' => _('paper'),
+                    'levelName' => _('Jednorazowy obserwator'),
                     'cacheCount' => array(
                         'found' => 1,
                         'placed' => 0,
                     ),
                 ),
                 2 => array(
-                    'levelName' => _('wooden'),
+                    'levelName' => _('Turysta - astronom'),
                     'cacheCount' => array(
                         'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
-                    'levelName' => _('iron'),
+                    'levelName' => _('Odkrywca gwiazd'),
                     'cacheCount' => array(
                         'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
-                    'levelName' => _('beril'),
+                    'levelName' => _('Bywalec planet'),
                     'cacheCount' => array(
                         'found' => 100,
                         'placed' => 0,
                     ),
                 ),
                 5 => array(
-                    'levelName' => _('bronze'),
+                    'levelName' => _('Naukowiec'),
                     'cacheCount' => array(
                         'found' => 200,
                         'placed' => 0,
                     ),
                 ),
                 6 => array(
-                    'levelName' => _('silver'),
+                    'levelName' => _('obrotomierz sfer niebieskich'),
                     'cacheCount' => array(
                         'found' => 500,
                         'placed' => 0,
                     ),
                 ),
                 7 => array(
-                    'levelName' => _('gold'),
+                    'levelName' => _('władca zatrzymanych Słońc'),
                     'cacheCount' => array(
                         'found' => 1000,
                         'placed' => 0,
@@ -584,49 +584,49 @@ return array(
             'minimumAltitude' => false,
             'cacheCountToAward' => array(
                 1 => array(
-                    'levelName' => _('lodzkie1'),
+                    'levelName' => _('Szewczyk Dratewka'),
                     'cacheCount' => array(
                         'found' => 1,
                         'placed' => 0,
                     ),
                 ),
                 2 => array(
-                    'levelName' => _('lodzkie2'),
+                    'levelName' => _('Operator kołowrotka'),
                     'cacheCount' => array(
                         'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
-                    'levelName' => _('lodzkie3'),
+                    'levelName' => _('Mistrz igły i nici'),
                     'cacheCount' => array(
                         'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
-                    'levelName' => _('lodzkie4'),
+                    'levelName' => _('Specjalista włokiennictwa'),
                     'cacheCount' => array(
                         'found' => 100,
                         'placed' => 0,
                     ),
                 ),
                 5 => array(
-                    'levelName' => _('lodzkie5'),
+                    'levelName' => _('Szef produkcji'),
                     'cacheCount' => array(
                         'found' => 200,
                         'placed' => 0,
                     ),
                 ),
                 6 => array(
-                    'levelName' => _('lodzkie6'),
+                    'levelName' => _('Przemysłowiec'),
                     'cacheCount' => array(
                         'found' => 500,
                         'placed' => 0,
                     ),
                 ),
                 7 => array(
-                    'levelName' => _('lodzkie7'),
+                    'levelName' => _('Kierownik Manofaktury'),
                     'cacheCount' => array(
                         'found' => 1000,
                         'placed' => 0,
@@ -653,49 +653,49 @@ return array(
             'minimumAltitude' => false,
             'cacheCountToAward' => array(
                 1 => array(
-                    'levelName' => _('mazowieckie1'),
+                    'levelName' => _('Słoik'),
                     'cacheCount' => array(
                         'found' => 1,
                         'placed' => 0,
                     ),
                 ),
                 2 => array(
-                    'levelName' => _('mazowieckie2'),
+                    'levelName' => _('Turysta w stolicy'),
                     'cacheCount' => array(
                         'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
-                    'levelName' => _('mazowieckie3'),
+                    'levelName' => _('kulturowa pała(c)'),
                     'cacheCount' => array(
                         'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
-                    'levelName' => _('mazowieckie4'),
+                    'levelName' => _('Bywalec na obiadach czwartkowych'),
                     'cacheCount' => array(
                         'found' => 100,
                         'placed' => 0,
                     ),
                 ),
                 5 => array(
-                    'levelName' => _('mazowieckie5'),
+                    'levelName' => _('ziomek Zygmunta'),
                     'cacheCount' => array(
                         'found' => 200,
                         'placed' => 0,
                     ),
                 ),
                 6 => array(
-                    'levelName' => _('mazowieckie6'),
+                    'levelName' => _('królewski rezydent'),
                     'cacheCount' => array(
                         'found' => 500,
                         'placed' => 0,
                     ),
                 ),
                 7 => array(
-                    'levelName' => _('mazowieckie7'),
+                    'levelName' => _('administrator łazienek'),
                     'cacheCount' => array(
                         'found' => 1000,
                         'placed' => 0,
@@ -722,49 +722,49 @@ return array(
             'minimumAltitude' => false,
             'cacheCountToAward' => array(
                 1 => array(
-                    'levelName' => _('warminskomazurskie1'),
+                    'levelName' => _('rowerzysta wodny'),
                     'cacheCount' => array(
                         'found' => 1,
                         'placed' => 0,
                     ),
                 ),
                 2 => array(
-                    'levelName' => _('warminskomazurskie2'),
+                    'levelName' => _('turystyczny sternik kajakowy'),
                     'cacheCount' => array(
                         'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
-                    'levelName' => _('warminskomazurskie3'),
+                    'levelName' => _('odkrywca nieznanych mielizn'),
                     'cacheCount' => array(
                         'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
-                    'levelName' => _('warminskomazurskie4'),
+                    'levelName' => _('bywalec marin'),
                     'cacheCount' => array(
                         'found' => 100,
                         'placed' => 0,
                     ),
                 ),
                 5 => array(
-                    'levelName' => _('warminskomazurskie5'),
+                    'levelName' => _('Kapitan Szuwarowy'),
                     'cacheCount' => array(
                         'found' => 200,
                         'placed' => 0,
                     ),
                 ),
                 6 => array(
-                    'levelName' => _('warminskomazurskie6'),
+                    'levelName' => _('Świecki Biskup Warmiński'),
                     'cacheCount' => array(
                         'found' => 500,
                         'placed' => 0,
                     ),
                 ),
                 7 => array(
-                    'levelName' => _('warminskomazurskie7'),
+                    'levelName' => _('Wielki Mistrz Zakonu geokeszerów'),
                     'cacheCount' => array(
                         'found' => 1000,
                         'placed' => 0,
@@ -791,49 +791,50 @@ return array(
             'minimumAltitude' => false,
             'cacheCountToAward' => array(
                 1 => array(
-                    'levelName' => _('pomorskie1'),
+                    'levelName' => _('M'
+                            . 'Majtek okrętowy'),
                     'cacheCount' => array(
                         'found' => 1,
                         'placed' => 0,
                     ),
                 ),
                 2 => array(
-                    'levelName' => _('pomorskie2'),
+                    'levelName' => _('Dojodowany turysta'),
                     'cacheCount' => array(
                         'found' => 15,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
-                    'levelName' => _('pomorskie3'),
+                    'levelName' => _('Rybak z kaszubskiej wioski'),
                     'cacheCount' => array(
                         'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
-                    'levelName' => _('pomorskie4'),
+                    'levelName' => _('Helski Plażowicz parawanowy'),
                     'cacheCount' => array(
                         'found' => 100,
                         'placed' => 0,
                     ),
                 ),
                 5 => array(
-                    'levelName' => _('pomorskie5'),
+                    'levelName' => _('Pan na Monciaku'),
                     'cacheCount' => array(
                         'found' => 200,
                         'placed' => 0,
                     ),
                 ),
                 6 => array(
-                    'levelName' => _('pomorskie6'),
+                    'levelName' => _('Admirał Floty Keszerskiej'),
                     'cacheCount' => array(
                         'found' => 500,
                         'placed' => 0,
                     ),
                 ),
                 7 => array(
-                    'levelName' => _('pomorskie7'),
+                    'levelName' => _('Wnuk Neptuna'),
                     'cacheCount' => array(
                         'found' => 1000,
                         'placed' => 0,
@@ -860,49 +861,49 @@ return array(
             'minimumAltitude' => false,
             'cacheCountToAward' => array(
                 1 => array(
-                    'levelName' => _('wielkopolskie1'),
+                    'levelName' => _('degusator pyrek'),
                     'cacheCount' => array(
                         'found' => 1,
                         'placed' => 0,
                     ),
                 ),
                 2 => array(
-                    'levelName' => _('wielkopolskie2'),
+                    'levelName' => _('Turysta z kapelusza'),
                     'cacheCount' => array(
                         'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
-                    'levelName' => _('wielkopolskie3'),
+                    'levelName' => _('Odkrywca koziołków'),
                     'cacheCount' => array(
                         'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
-                    'levelName' => _('wielkopolskie4'),
+                    'levelName' => _('Bywalec tej!'),
                     'cacheCount' => array(
                         'found' => 100,
                         'placed' => 0,
                     ),
                 ),
                 5 => array(
-                    'levelName' => _('wielkopolskie5'),
+                    'levelName' => _('Elegant z Mosiny'),
                     'cacheCount' => array(
                         'found' => 200,
                         'placed' => 0,
                     ),
                 ),
                 6 => array(
-                    'levelName' => _('wielkopolskie6'),
+                    'levelName' => _('Motorniczy bimby'),
                     'cacheCount' => array(
                         'found' => 500,
                         'placed' => 0,
                     ),
                 ),
                 7 => array(
-                    'levelName' => _('wielkopolskie7'),
+                    'levelName' => _('Władca pyrlandii'),
                     'cacheCount' => array(
                         'found' => 1000,
                         'placed' => 0,
@@ -929,49 +930,49 @@ return array(
             'minimumAltitude' => false,
             'cacheCountToAward' => array(
                 1 => array(
-                    'levelName' => _('slaskie1'),
+                    'levelName' => _('Palacz węglem z Sosnowca'),
                     'cacheCount' => array(
                         'found' => 1,
                         'placed' => 0,
                     ),
                 ),
                 2 => array(
-                    'levelName' => _('slaskie2'),
+                    'levelName' => _('Górnik'),
                     'cacheCount' => array(
                         'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
-                    'levelName' => _('slaskie3'),
+                    'levelName' => _('Odkrywca kopalni'),
                     'cacheCount' => array(
                         'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
-                    'levelName' => _('slaskie4'),
+                    'levelName' => _('Bywalec podziemi'),
                     'cacheCount' => array(
                         'found' => 100,
                         'placed' => 0,
                     ),
                 ),
                 5 => array(
-                    'levelName' => _('slaskie5'),
+                    'levelName' => _('esplorator chodników'),
                     'cacheCount' => array(
                         'found' => 200,
                         'placed' => 0,
                     ),
                 ),
                 6 => array(
-                    'levelName' => _('slaskie6'),
+                    'levelName' => _('starszy wydobywczy'),
                     'cacheCount' => array(
                         'found' => 500,
                         'placed' => 0,
                     ),
                 ),
                 7 => array(
-                    'levelName' => _('slaskie7'),
+                    'levelName' => _('Ślunski Sztygar'),
                     'cacheCount' => array(
                         'found' => 1000,
                         'placed' => 0,
@@ -998,49 +999,49 @@ return array(
             'minimumAltitude' => false,
             'cacheCountToAward' => array(
                 1 => array(
-                    'levelName' => _('zachodniopomorskie1'),
+                    'levelName' => _('zbieracz wyimków'),
                     'cacheCount' => array(
                         'found' => 1,
                         'placed' => 0,
                     ),
                 ),
                 2 => array(
-                    'levelName' => _('zachodniopomorskie2'),
+                    'levelName' => _('Turysta pływak'),
                     'cacheCount' => array(
                         'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
-                    'levelName' => _('zachodniopomorskie3'),
+                    'levelName' => _('Odkrywca kotwic'),
                     'cacheCount' => array(
                         'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
-                    'levelName' => _('zachodniopomorskie4'),
+                    'levelName' => _('Bywalec gazoportu'),
                     'cacheCount' => array(
                         'found' => 100,
                         'placed' => 1,
                     ),
                 ),
                 5 => array(
-                    'levelName' => _('zachodniopomorskie5'),
+                    'levelName' => _('starszy pompujący wodę'),
                     'cacheCount' => array(
                         'found' => 200,
                         'placed' => 2,
                     ),
                 ),
                 6 => array(
-                    'levelName' => _('zachodniopomorskie6'),
+                    'levelName' => _('kapitan statku'),
                     'cacheCount' => array(
                         'found' => 500,
                         'placed' => 5,
                     ),
                 ),
                 7 => array(
-                    'levelName' => _('zachodniopomorskie7'),
+                    'levelName' => _('strażnik gryfa'),
                     'cacheCount' => array(
                         'found' => 1000,
                         'placed' => 10,
@@ -1067,49 +1068,49 @@ return array(
             'minimumAltitude' => false,
             'cacheCountToAward' => array(
                 1 => array(
-                    'levelName' => _('swietokrzyskie1'),
+                    'levelName' => _('majoonez kielecki'),
                     'cacheCount' => array(
                         'found' => 1,
                         'placed' => 0,
                     ),
                 ),
                 2 => array(
-                    'levelName' => _('swietokrzyskie2'),
+                    'levelName' => _('scyzoryk'),
                     'cacheCount' => array(
                         'found' => 10,
                         'placed' => 0,
                     ),
                 ),
                 3 => array(
-                    'levelName' => _('swietokrzyskie3'),
+                    'levelName' => _('Pilna uczennica na Łysej Górze'),
                     'cacheCount' => array(
                         'found' => 50,
                         'placed' => 0,
                     ),
                 ),
                 4 => array(
-                    'levelName' => _('swietokrzyskie4'),
+                    'levelName' => _('Starsza miotłowa'),
                     'cacheCount' => array(
                         'found' => 100,
                         'placed' => 1,
                     ),
                 ),
                 5 => array(
-                    'levelName' => _('swietokrzyskie5'),
+                    'levelName' => _('Zlotmistrzyni Łysogórka'),
                     'cacheCount' => array(
                         'found' => 200,
                         'placed' => 2,
                     ),
                 ),
                 6 => array(
-                    'levelName' => _('swietokrzyskie6'),
+                    'levelName' => _('Starsza Gołoborzowa'),
                     'cacheCount' => array(
                         'found' => 500,
                         'placed' => 5,
                     ),
                 ),
                 7 => array(
-                    'levelName' => _('swietokrzyskie7'),
+                    'levelName' => _('Babojaga'),
                     'cacheCount' => array(
                         'found' => 1000,
                         'placed' => 10,
